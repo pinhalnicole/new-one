@@ -1,0 +1,14 @@
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\bin\Debug\Loans2GoWPF.exe.config
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\bin\Debug\Loans2GoWPF.exe
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\bin\Debug\Loans2GoWPF.pdb
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF.csprojResolveAssemblyReference.cache
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\App.g.cs
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF_MarkupCompile.cache
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF_MarkupCompile.lref
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\MainWindow.baml
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF.g.resources
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF.Properties.Resources.resources
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF.csproj.GenerateResource.Cache
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF.exe
+C:\Users\Franciscah\Desktop\Loans2GoWPF\Loans2GoWPF\obj\Debug\Loans2GoWPF.pdb
